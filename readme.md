@@ -34,4 +34,19 @@ Step 2, Basic styling:
 - add 'style.css'
 - link it into the HTML
 - style the whole page
-- style cards
+- style cards by class
+
+```
+.ponyCard{
+  width: 30%;
+  background-color: #ffffff;
+  font-family: arial;
+  border-width: 3px;
+  border-color: #000000;
+  border-style: solid;
+  border-radius: 9px;
+  padding: 9px;
+  float: left;
+  margin: 3px;
+}
+```
