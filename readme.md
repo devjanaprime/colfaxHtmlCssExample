@@ -7,11 +7,11 @@ Looked at conceptual stack
 
 Front End/CLient Brain only
 
-IMAGE HERE!!!
+![clientSide](clientSide.png)
 
 Full Stack Login Example
 
-IMAGE HERE!!!
+![fullStack](fullStack.png)
 
 break
 
