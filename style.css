@@ -1,0 +1,21 @@
+body{
+  background-color: #b4d455;
+  font-family: courier;
+}
+
+img{
+  width: 100%;
+}
+
+.ponyCard{
+  width: 20%;
+  background-color: #ffffff;
+  font-family: arial;
+  border-width: 3px;
+  border-color: #000000;
+  border-style: solid;
+  border-radius: 9px;
+  padding: 9px;
+  float: left;
+  margin: 3px;
+}
